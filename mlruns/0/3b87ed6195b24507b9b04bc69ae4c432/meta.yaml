@@ -1,0 +1,15 @@
+artifact_uri: file:///home/tractus/Desktop/example/mlflow-DVC/MLflow-Basic-Operations/mlruns/0/3b87ed6195b24507b9b04bc69ae4c432/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b87ed6195b24507b9b04bc69ae4c432
+run_name: mysterious-rook-693
+run_uuid: 3b87ed6195b24507b9b04bc69ae4c432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710168635561
+status: 1
+tags: []
+user_id: tractus
