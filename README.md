@@ -25,6 +25,18 @@ Proje, kırmızı şarap kalitesini tahmin etmek için ElasticNet regresyon mode
 ## MLflow UI
 Projeyi çalıştırdıktan sonra, MLflow UI'yı kullanarak eğitim deneylerini ve sonuçlarını görselleştirebilirsiniz. MLflow UI, model performansını karşılaştırmak, parametre ayarlarını gözden geçirmek ve eğitim deneylerinin geçmişini incelemek için güçlü bir araçtır.
 
+## DAGSHUB
+
+MLFLOW_TRACKING_URI=https://dagshub.com/enesagu/MLflow-Basic-Operations.mlflow \
+MLFLOW_TRACKING_USERNAME=enesagu \
+MLFLOW_TRACKING_PASSWORD=84f220ba25874938540cddf6b9bb0b3e68d19648 \
+python script.py
+
+
+export MLFLOW_TRACKING_URI=https://dagshub.com/enesagu/MLflow-Basic-Operations.mlflow 
+export MLFLOW_TRACKING_USERNAME=enesagu
+export MLFLOW_TRACKING_PASSWORD=84f220ba25874938540cddf6b9bb0b3e68d19648
+
 ## Daha Fazla Bilgi
 
 Proje hakkında daha fazla bilgi edinmek için lütfen MLflow belgelerine bakın veya proje sahibiyle iletişime geçin.
