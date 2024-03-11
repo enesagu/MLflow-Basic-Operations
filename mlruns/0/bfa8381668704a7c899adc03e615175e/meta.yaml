@@ -1,0 +1,15 @@
+artifact_uri: file:///home/tractus/Desktop/example/mlflow-DVC/MLflow-Basic-Operations/mlruns/0/bfa8381668704a7c899adc03e615175e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfa8381668704a7c899adc03e615175e
+run_name: masked-wren-350
+run_uuid: bfa8381668704a7c899adc03e615175e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710167199647
+status: 1
+tags: []
+user_id: tractus
