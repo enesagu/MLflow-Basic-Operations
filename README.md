@@ -32,10 +32,11 @@ MLFLOW_TRACKING_USERNAME=enesagu \
 MLFLOW_TRACKING_PASSWORD=84f220ba25874938540cddf6b9bb0b3e68d19648 \
 python script.py
 
-
-export MLFLOW_TRACKING_URI=https://dagshub.com/enesagu/MLflow-Basic-Operations.mlflow 
+'''bash
+export MLFLOW_TRACKING_URI=https://dagshub.com/enesagu/MLflow-Basic-Operations.mlflow
 export MLFLOW_TRACKING_USERNAME=enesagu
 export MLFLOW_TRACKING_PASSWORD=84f220ba25874938540cddf6b9bb0b3e68d19648
+'''
 
 ## Daha Fazla Bilgi
 
