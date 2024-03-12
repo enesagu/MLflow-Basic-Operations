@@ -73,6 +73,9 @@ if __name__ == "__main__":
 
         tracking_url_type_store = urlparse(mlflow.get_artifact_uri()).scheme
 
+        
+
+
         # Model kaydı dosya deposuyla çalışmaz
         if tracking_url_type_store != "file":
             # Modeli kaydet
