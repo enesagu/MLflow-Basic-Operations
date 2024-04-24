@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/10128eed059d4ec0a20b62229a363967/artifacts
+end_time: 1713964115876
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10128eed059d4ec0a20b62229a363967
+run_name: trusting-wren-342
+run_uuid: 10128eed059d4ec0a20b62229a363967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713964114252
+status: 4
+tags: []
+user_id: root
